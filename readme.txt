@@ -4,4 +4,4 @@ second commit;
 test stage/index;
 git diff HEAD -- readme.txt;
 test branch merge;
-master branch change;
+master branch change and test branch feature1;
