@@ -7,3 +7,4 @@ test branch merge;
 master branch change and test branch feature1;
 ====
 dev branch: test --no-ff
+dev branch: test merge fast-forward
